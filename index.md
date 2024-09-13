@@ -4,11 +4,11 @@
     <div class="row">
         <div class="col-6">
             <h3>Courses</h3>
-            <!-- <ul class="list-group mb-2">
+            <ul class="list-group mb-2">
                 <li class="list-group-item">
-                    <a href="https://python.bitwiselabs.app">Python</a>
+                    <a href="https://python.bitwiselabs.app">Python</a> <span class="badge badge-danger">WIP</span>
                 </li>
-            </ul> -->
+            </ul>
             We're still writing courses!
         </div>
         <div class="col-6">
