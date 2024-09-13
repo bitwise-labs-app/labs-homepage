@@ -1,0 +1,8 @@
+{
+    "$schema": "https://raw.githubusercontent.com/bitwize-app/resources/main/schema/course-manifest.json",
+    "courseName": "Home",
+    "courseAuthors": [ "Bitwise Labs Contributors" ],
+    "index": "./index.md",
+    "indexCustomTitle": "Welcome to Bitwise Labs!",
+    "content": []
+}
