@@ -2,7 +2,7 @@
 
 <div class="container-fluid p-0 m-0">
     <div class="row">
-        <div class="col-6">
+        <div class="col-md-6">
             <h3>Courses</h3>
             <ul class="list-group mb-2">
                 <li class="list-group-item">
@@ -11,7 +11,7 @@
             </ul>
             We're still writing courses!
         </div>
-        <div class="col-6">
+        <div class="col-md-6">
             <h3>Contributors</h3>
             <ul class="list-group mb-2">
                 <li class="list-group-item">
