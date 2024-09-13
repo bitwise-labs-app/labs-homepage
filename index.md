@@ -6,7 +6,7 @@
             <h3>Courses</h3>
             <ul class="list-group mb-2">
                 <li class="list-group-item">
-                    <a href="https://python.bitwiselabs.app">Python</a> <span class="badge badge-danger">WIP</span>
+                    <a href="https://python.bitwiselabs.app">Python</a> <span class="badge bg-danger">WIP</span>
                 </li>
             </ul>
             We're still writing courses!
