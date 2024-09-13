@@ -6,5 +6,8 @@
     "index": "./index.md",
     "indexCustomTitle": "Welcome to Bitwise Labs!",
     "includeDir": "./include",
+    "extraCourseInternalPages": [
+        "./contribute.md"
+    ],
     "content": []
 }
